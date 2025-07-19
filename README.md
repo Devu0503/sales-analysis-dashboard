@@ -36,6 +36,7 @@ Microsoft Excel
 2. Use slicers to filter data
 3. Explore charts and KPIs that update dynamically
 
+  ``` 
  File Structure
 
  E-commerce-Dashboard-Excel
@@ -43,7 +44,7 @@ Microsoft Excel
 ├── README.md
 └── dashboard.pdf
 └── problem statement.pdf
-
+```
  Impact & Applications
 
 This dashboard is designed for:
